@@ -1,5 +1,5 @@
-(githublink)[https://github.com/dbajajmnk/kumartraining]
-(Graphql)[https://www.graphql-js.org/docs/]
+[githublink](https://github.com/dbajajmnk/kumartraining)
+[Graphql](https://www.graphql-js.org/docs/)
 
 Github Account need to active
 System have sufficient space
